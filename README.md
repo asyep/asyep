@@ -32,8 +32,8 @@ writing structured, reproducible, and well-documented code.
 ---
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asyep&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyep&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 
 ---
 
@@ -45,4 +45,3 @@ writing structured, reproducible, and well-documented code.
 
 ---
 
-> *Pinned repositories below highlight selected data-related projects and learning explorations.*
