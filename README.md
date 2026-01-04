@@ -1,60 +1,72 @@
-## About Me
-
-Hi, I'm **Asep Nadhirin**, a Software Engineering undergraduate student at **Universitas Pendidikan Indonesia**.
-
-I have a strong and growing interest in **data-oriented fields**, particularly **Data Analysis, Machine Learning, and Artificial Intelligence**.
-With a software engineering background, I focus on building **structured, reproducible, and well-documented solutions**, especially when working with data.
-
-My goal is to bridge solid engineering fundamentals with data-driven thinking.
-
-
-## Professional Direction
-
-I am currently preparing myself for **internship opportunities** related to:
-- Data Analysis & Data Visualization  
-- Machine Learning (fundamental level)  
-- Applied AI (introductory)  
-- Data-driven problem solving  
-
-
-## Core Tech Stack (Data-Focused)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql"/>
+<h1 align="center">Hi, I'm Asep Nadhirin 👋</h1>
+<p align="center">
+Software Engineering Undergraduate | Data & Analytics Enthusiast
 </p>
 
+---
 
-## Software Engineering Foundation
+### 👤 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Structured-informational?style=flat"/>
-  <img src="https://img.shields.io/badge/System%20Documentation-SRS%20%26%20SKPL-blue?style=flat"/>
+I am an undergraduate **Software Engineering student at Universitas Pendidikan Indonesia** with a strong interest in **Data Analytics, Data Science, Machine Learning, and AI**.  
+
+With a foundation in software engineering, I enjoy working at the intersection of **data, logic, and systems** — transforming raw data into meaningful insights while also understanding how software is built, structured, and scaled.
+
+I am currently preparing myself for **internship opportunities** where I can contribute, learn, and grow in data-driven and technology-oriented environments.
+
+---
+
+### 🎯 Focus Areas
+
+- Data Analysis & Visualization  
+- Data-Driven Decision Making  
+- Software Development Fundamentals  
+- Machine Learning (Exploratory & Applied)  
+
+---
+
+### 💻 Software Engineering Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,php,laravel,mysql,bootstrap" />
 </p>
 
-My background in software engineering helps me approach data projects with:
-- Clear structure and logic  
-- Maintainable and readable code  
-- Proper documentation and version control  
+- Programming & Scripting: **Python, C++**
+- Web Development: **HTML, CSS, JavaScript (Vanilla), PHP, Laravel**
+- Database & Query: **SQL, MySQL**
+- Frontend Styling: **Bootstrap**
 
+---
 
-## What I’m Building
+### 📊 Data & Analytics Skills
 
-- Data analysis projects using real-world datasets  
-- Machine learning experiments to strengthen fundamentals  
-- Well-documented repositories that emphasize clarity over complexity  
+<p>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
 
-Each project reflects both my **technical foundation** and my **learning journey in data**.
+- Data Processing & Analysis using **Excel**
+- Dashboard & Visualization: **Power BI, Looker Studio**
+- Data App Prototyping: **Streamlit**
 
+---
 
-## Contact & Professional Presence
+### 🤖 Machine Learning Exposure
 
-- 📧 Email: **aasep6197@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/asep-nadhirin**
-- 📍 Bandung, Indonesia
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+</p>
+
+- Clustering: **K-Means**
+- ML Frameworks: **TensorFlow, Keras**
+- Exploratory model development & experimentation
+
+---
+
+### 🌱 Closing Note
+
+I believe that strong software fundamentals combined with data literacy are essential in today’s tech industry.  
+Currently open to **internship opportunities** related to **Data Analyst, Data Scientist, Machine Learning, or Software/Data-related roles**.
+
+📫 Feel free to connect or explore my repositories.
