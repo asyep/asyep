@@ -9,7 +9,7 @@ Software Engineering Undergraduate | Data & Analytics Enthusiast
 
 I am an undergraduate **Software Engineering student at Universitas Pendidikan Indonesia** with a strong interest in **Data Analytics, Data Science, Machine Learning, and AI**.  
 
-With a foundation in software engineering, I enjoy working at the intersection of **data, logic, and systems** — transforming raw data into meaningful insights while also understanding how software is built, structured, and scaled.
+With a foundation in software engineering, I enjoy working at the intersection of **data, logic, and systems** transforming raw data into meaningful insights while also understanding how software is built, structured, and scaled.
 
 I am currently preparing myself for **internship opportunities** where I can contribute, learn, and grow in data-driven and technology-oriented environments.
 
@@ -31,7 +31,7 @@ I am currently preparing myself for **internship opportunities** where I can con
 </p>
 
 - Programming & Scripting: **Python, C++**
-- Web Development: **HTML, CSS, JavaScript (Vanilla), PHP, Laravel**
+- Web Development: **HTML, CSS, JavaScript, PHP, Laravel**
 - Database & Query: **SQL, MySQL**
 - Frontend Styling: **Bootstrap**
 
@@ -40,7 +40,8 @@ I am currently preparing myself for **internship opportunities** where I can con
 ### 📊 Data & Analytics Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
@@ -56,11 +57,13 @@ I am currently preparing myself for **internship opportunities** where I can con
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
 </p>
 
-- Clustering: **K-Means**
-- ML Frameworks: **TensorFlow, Keras**
-- Exploratory model development & experimentation
+- Unsupervised learning using **K-Means**
+- Model experimentation with **TensorFlow & Keras**
+- Prototyping & experimentation using **Jupyter Notebook & Google Colab**
 
 ---
 
